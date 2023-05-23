@@ -1,10 +1,16 @@
 ## Hi I'm Binh! :dart:
 
-:computer: I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
+💻 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
+
+🔥 I’m looking for startup ideas and a co-founder in any industry
+
+📫 Contact me through: [lethanhbinh6203@gmail.com](mailto:lethanhbinh6203@gmail.com)
 
 ### My Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+_Doesn't matter, I'll just learn things on the way_
+
+<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,6 +30,4 @@
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-📫 Contact me through: [lethanhbinh6203@gmail.com](mailto:lethanhbinh6203@gmail.com)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
