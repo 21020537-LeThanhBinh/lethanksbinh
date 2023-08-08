@@ -2,13 +2,25 @@
 
 💻 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
 
-🔥 I’m looking for startup ideas and a co-founder in any industry
-
 📫 Contact me through: [lethanhbinh6203@gmail.com](mailto:lethanhbinh6203@gmail.com)
 
-### My Tech Stack
+### Active projects
 
-_Doesn't matter, I'll just learn things on the way_
+🔥 RentTomo - Application for finding accommodation and roommates quickly for students.
+
+🔥 Aninagori - Share your favorite Animemory with friends!
+
+🔥 Calendoro - Pomodoro/Animedoro timer that based on your calendar to decide on learning goal for the day.
+
+🔥 UET_Calendar - The fastest way to make school schedule for UET's students.
+
+### Notes
+
+- RentTomo is my main project at the moment, I'd love to collaborate, just give me a call.
+
+- Aninagori, Calendoro and UET_Calendar are actively used and maintained (mainly by me), there won't be any new updates soon, except for fixing issues.
+
+- Other projects are archived but feel free to ask for help if you are interested in continuing.
 
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
