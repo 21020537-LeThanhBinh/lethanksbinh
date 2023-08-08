@@ -1,26 +1,30 @@
-## Hi I'm Binh! :dart:
+<h1> Hi I'm Binh! :dart: </h1>
 
-💻 I'm pursuing Bachelor's Degree in Information Technology at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
+<p>💻 I'm pursuing Bachelor's Degree in Information Technology at University of Engineering and Technology (UET-VNU) </p>
 
-📫 Contact me through: [lethanhbinh6203@gmail.com](mailto:lethanhbinh6203@gmail.com)
+<p>📫 Contact me through: lethanhbinh6203@gmail.com</p>
 
-### Active projects
+<h2> Active projects </h2>
 
-🔥 RentTomo - Application for finding accommodation and roommates quickly for students.
+<p>🔥 RentTomo - Application for finding accommodation and roommates quickly for students. </p>
 
-🔥 Aninagori - Share your favorite Animemory with friends!
+<p>🔥 Aninagori - Share your favorite Animemory with friends!</p>
 
-🔥 Calendoro - Pomodoro/Animedoro timer that based on your calendar to decide on learning goal for the day.
+<p>🔥 Calendoro - Pomodoro/Animedoro timer that based on your calendar to decide on learning goal for the day.</p>
 
-🔥 UET_Calendar - The fastest way to make school schedule for UET's students.
+<p>🔥 UET_Calendar - The fastest way to make school schedule for UET's students.</p>
 
-### Notes
+<h2> Notes </h2>
 
-- RentTomo is my main project at the moment, I'd love to collaborate, just give me a call.
+<ul>
+  <li>RentTomo is my main project at the moment, I'd love to collaborate, just give me a call.</li>
+  
+  <li>Aninagori, Calendoro and UET_Calendar are actively used and maintained (mainly by me), there won't be any new updates soon, except for fixing issues.</li>
+  
+  <li>Other projects are archived but feel free to ask for help if you are interested in continuing.</li>
+</ul>
 
-- Aninagori, Calendoro and UET_Calendar are actively used and maintained (mainly by me), there won't be any new updates soon, except for fixing issues.
 
-- Other projects are archived but feel free to ask for help if you are interested in continuing.
 
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
